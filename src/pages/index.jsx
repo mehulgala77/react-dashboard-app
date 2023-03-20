@@ -1,4 +1,4 @@
-/* eslint-disable import/no-cycle */
+/* eslint-disable  import/no-cycle */
 
 export { default as Ecommerce } from './Ecommerce';
 export { default as Kanban } from './Kanban';
